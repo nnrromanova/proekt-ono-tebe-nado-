@@ -1,4 +1,4 @@
-https://github.com/MikeBeloborodov/ono-tebe-nado
+[https://github.com/MikeBeloborodov/ono-tebe-nado](https://github.com/nnrromanova/proekt-ono-tebe-nado-)
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
